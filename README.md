@@ -18,4 +18,4 @@ I am a **Informatic Engineer Student** focused on **Cybersecurity, Networks, and
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-ant%C3%B3nio-rodrigues-vieira-tato-242151377)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlos-ant%C3%B3nio-rodrigues-vieira-tato-242151377)
