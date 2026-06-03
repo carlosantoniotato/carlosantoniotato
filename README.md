@@ -12,7 +12,7 @@ I am a **Informatic Engineer Student** focused on **Cybersecurity, Networks, and
 ---
 
 ### Education & Background
-* **B.Sc. Candidate in Computer Engineering**
+* **B.Sc. Candidate in Informatic Enginner**
 * **CTeSP Degree in Networks & Systems Informatics**
 * Hands-on experience in university IT labs and public administration infrastructures.
 
