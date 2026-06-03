@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Carlos António Tato 👋
 
-<!--
-**carlosantoniotato/carlosantoniotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Informatic Engineer Student** focused on **Cybersecurity, Networks, and Infrastructure**. I enjoy building secure, automated, and resilient systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills & Interests
+* **Security:** SIEM/XDR deployment, log analysis, and threat detection.
+* **Networks:** Routing, switching, secure tunneling (SSH), and Cisco infrastructure.
+* **Systems:** Linux administration (Ubuntu/Arch) and Docker containerization.
+
+---
+
+### Education & Background
+* **B.Sc. Candidate in Computer Engineering**
+* **CTeSP Degree in Networks & Systems Informatics**
+* Hands-on experience in university IT labs and public administration infrastructures.
+
+---
+
+**Connect with me:** [LinkedIn](www.linkedin.com/in/carlos-antónio-rodrigues-vieira-tato-242151377)
