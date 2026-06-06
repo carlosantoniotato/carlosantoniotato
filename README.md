@@ -1,6 +1,6 @@
 # Hi, I'm Carlos António Rodrigues Vieira Tato 👋
 
-I am a **Informatic Engineer Student** focused on **Cybersecurity, Networks, and Infrastructure**. I enjoy building secure, automated, and resilient systems.
+I am a **Computer Engineering Student** focused on **Cybersecurity, Networks, and Infrastructure**. I enjoy building secure, automated, and resilient systems.
 
 ---
 
@@ -12,7 +12,7 @@ I am a **Informatic Engineer Student** focused on **Cybersecurity, Networks, and
 ---
 
 ### Education & Background
-* **B.Sc. Candidate in Informatic Enginner**
+* **B.Sc. Candidate in Computer Enginnering**
 * **CTeSP Degree in Networks & Systems Informatics**
 * Hands-on experience in university IT labs and public administration infrastructures.
 
