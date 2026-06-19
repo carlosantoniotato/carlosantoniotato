@@ -1,4 +1,4 @@
-# Hi, I'm Carlos António Rodrigues Vieira Tato 👋
+# Hi, I'm Carlos Tato 👋
 
 I am a **Computer Engineering Student** focused on **Cybersecurity, Networks, and Infrastructure**. I enjoy building secure, automated, and resilient systems.
 
